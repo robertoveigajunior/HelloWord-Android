@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">HelloWord</string>
+    <string name="show_message">Show message</string>
+    <string name="message">Its working</string>
+</resources>
